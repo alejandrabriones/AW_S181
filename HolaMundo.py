@@ -5,3 +5,5 @@ b = 5
 
 print("Suma:", a + b)
 
+print("Resta: ", a - b)
+
